@@ -1,7 +1,7 @@
 # Setup
 title:        Public Wiki
 tagline:      A public wiki for the devolab!
-baseurl:      ""
+baseurl:      "/public-wiki"
 paginate:     1
 locale:       "en"
 permalink:    /:title/
