@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Summer 2019 - Journal Club"
+title:  "Spring 2019 - Journal Club"
 journal_club_entry_info:
   type: meetings
   year: 2019
-  semester: summer
+  semester: spring
 ---
 
 Hello world!
