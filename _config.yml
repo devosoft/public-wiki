@@ -10,6 +10,11 @@ author:
   name:       Author name
   url:        http://yourhomepage.com
 
+# Define non-post collections
+collections:
+  journal_club:
+    output: true
+
 # Gems
 gems:
   - jekyll-paginate

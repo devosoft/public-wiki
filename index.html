@@ -10,4 +10,11 @@ title: {{ site.name }}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
+  <h2>Journal Club</h2>
+  <ul class="journal-club-entries">
+    {% for entry in site.journal_club %}
+      <li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.year }} - {{ entry.semester }}</a></li>
+    {% endfor %}
+  </ul>
 </div>
