@@ -41,4 +41,4 @@ citation, links, etc. here!
 
 MAM: something controversial we can argue about
 * https://sandwalk.blogspot.com/2009/09/how-bad-papers-get-published-in-good.html
-* bad sexist alife paper from Cancun
+* https://www.mitpressjournals.org/doi/abs/10.1162/978-0-262-33936-0-ch073
