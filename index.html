@@ -4,6 +4,7 @@ title: {{ site.name }}
 ---
 
 <div id="home">
+
   <h1>Pages</h1>
   <ul class="posts">
     {% for post in site.posts %}
@@ -11,7 +12,6 @@ title: {{ site.name }}
     {% endfor %}
   </ul>
 
-  <!-- @AML: Todo - move this to an include! -->
   <h2>Journal Club</h2>
   {% include journal-club-vignette.html %}
 
