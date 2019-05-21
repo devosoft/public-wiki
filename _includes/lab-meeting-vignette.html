@@ -1,0 +1,44 @@
+<ul class="lab-meeting-entries">
+  <!-- get a list of lab meeting topic idea pages -->
+  {% assign meeting_ideas = site.lab_meeting | where: "lab_meeting_entry_info.type", "ideas" %}
+  <!-- get a list of meetings pages -->
+  {% assign meetings_entries = site.lab_meeting | where: "lab_meeting_entry_info.type", "meetings" %}
+
+  <!-- list lab meeting idea pages -->
+  {% for entry in meeting_ideas %}
+    <li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+  {% endfor %}
+
+  <!-- list meeting pages -->
+  <li>Meetings
+    <!-- what years do we have meetings for? -->
+    {% assign meetings_years = meetings_entries | map: "lab_meeting_entry_info" | map: "year" | uniq %}
+    <ul>
+      {% for meeting_year in meetings_years reversed %}
+        <!-- get fall meetings for {{ year }} -->
+        <li>{{ meeting_year }}
+          {% assign fall_meetings = meetings_entries | where: "lab_meeting_entry_info.year", meeting_year | where: "lab_meeting_entry_info.semester", "fall" %}
+          <!-- get summer meetings for {{ year }} -->
+          {% assign summer_meetings = meetings_entries | where: "lab_meeting_entry_info.year", meeting_year | where: "lab_meeting_entry_info.semester", "summer" %}
+          <!-- get spring meetings for {{ year }} -->
+          {% assign spring_meetings = meetings_entries | where: "lab_meeting_entry_info.year", meeting_year | where: "lab_meeting_entry_info.semester", "spring" %}
+          <ul>
+            <!-- list fall meetings (this should only have one member, but just in case we'll loop over all) -->
+            {% for entry in fall_meetings %}
+              <li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.lab_meeting_entry_info.year }} - {{ entry.lab_meeting_entry_info.semester }}</a></li>
+            {% endfor %}
+            <!-- list fall meetings (this should only have one member, but just in case we'll loop over all) -->
+            {% for entry in summer_meetings %}
+              <li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.lab_meeting_entry_info.year }} - {{ entry.lab_meeting_entry_info.semester }}</a></li>
+            {% endfor %}
+            <!-- list fall meetings (this should only have one member, but just in case we'll loop over all) -->
+            {% for entry in spring_meetings %}
+              <li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.lab_meeting_entry_info.year }} - {{ entry.lab_meeting_entry_info.semester }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+
+</ul>
