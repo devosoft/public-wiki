@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: journal-club-meetings
 title:  "Summer 2019 - Journal Club"
 journal_club_entry_info:
   type: meetings
@@ -9,38 +9,34 @@ journal_club_entry_info:
 
 # Schedule
 
-## May 24: Alex
+## May 24 - Alex
 
-citation, links, etc. here!
+**Paper:** Joyce, G. F. (2002). [The antiquity of RNA-based evolution]((https://www.nature.com/articles/418214a)). Nature, 418(6894), 214–221. [https://doi.org/10.1038/418214a](https://doi.org/10.1038/418214a).
 
-## May 31
+More information coming! - AML
 
-## June 7
+## May 31 - TBD
 
-## June 14
+## June 7 - TBD
 
-## June 21
+## June 14 - TBD
 
-## June 28
+## June 21 - TBD
 
-## July 5
+## June 28 - TBD
 
-## July 12
+## July 5 - TBD
 
-## July 19
+## July 12 - TBD
 
-## July 26
+## July 19 - TBD
 
-## August 2
+## July 26 - TBD
 
-## August 9
+## August 2 - TBD
 
-## August 16
+## August 9 - TBD
 
-## August 23
+## August 16 - TBD
 
-# Paper Ideas
-
-MAM: something controversial we can argue about
-* https://sandwalk.blogspot.com/2009/09/how-bad-papers-get-published-in-good.html
-* https://www.mitpressjournals.org/doi/abs/10.1162/978-0-262-33936-0-ch073
+## August 23 - TBD
