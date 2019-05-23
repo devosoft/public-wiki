@@ -11,7 +11,7 @@ journal_club_entry_info:
 
 ## May 24 - Alex
 
-**Paper:** Joyce, G. F. (2002). [The antiquity of RNA-based evolution]((https://www.nature.com/articles/418214a)). Nature, 418(6894), 214–221. [https://doi.org/10.1038/418214a](https://doi.org/10.1038/418214a).
+**Paper:** Joyce, G. F. (2002). [The antiquity of RNA-based evolution](https://www.nature.com/articles/418214a). Nature, 418(6894), 214–221. [https://doi.org/10.1038/418214a](https://doi.org/10.1038/418214a).
 
 More information coming! - AML
 
