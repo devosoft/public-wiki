@@ -55,6 +55,8 @@ Some open questions (as of this paper)
 
 - Alternatives to the RNA world hypothesis?
   - Lipid World Hypothesis
+    - 'compartment first' hypothesis
+    - Early amphiphile molecules such as lipids or fatty acids would have spontaneously self-assembled into liposomes, which are simple vesicles akin to soap bubbles (Banzhaf and Yamamoto, 2015)
   - Metabolism-first hypothesis
     - Life bootstrapped from a web of chemical reactions forming a primitive metabolism able to use entergy to maintain itself (Banzhaf and Yamamoto, 2015)
 - What is the role of digital systems in origins of life/RNA world research?
