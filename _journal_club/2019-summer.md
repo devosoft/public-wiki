@@ -76,17 +76,17 @@ Some open questions (as of this paper)
 
 ## June 7 - TBD
 
-## June 14 - TBD
+## June 14 - BEACON Seminar (Mark Reimers)
 
 ## June 21 - TBD
 
-## June 28 - TBD
+## June 28 - BEACON Seminar (Doug Kirkpatrick)
 
 ## July 5 - TBD
 
-## July 12 - TBD
+## July 12 - BEACON Seminar (Chris Adami)
 
-## July 19 - TBD
+## July 19 - BEACON Seminar (Joseph Graves)
 
 ## July 26 - TBD
 
