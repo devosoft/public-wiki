@@ -90,7 +90,7 @@ Some open questions (as of this paper)
 
 ## July 26 - TBD
 
-## August 2 - TBD
+## August 2 - ALife 2019
 
 ## August 9 - TBD
 
