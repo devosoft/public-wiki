@@ -72,7 +72,35 @@ Some open questions (as of this paper)
 - Black, R. A., Blosser, M. C., Stottrup, B. L., Tavakley, R., Deamer, D. W., & Keller, S. L. (2013). Nucleobases bind to and stabilize aggregates of a prebiotic amphiphile, providing a viable mechanism for the emergence of protocells. Proceedings of the National Academy of Sciences, 110(33), 13272–13276. [https://doi.org/10.1073/pnas.1300963110](https://doi.org/10.1073/pnas.1300963110)
   - Cool work investigating how primordial cells that combined RNA (which functioned as catalysts and carriers of genetic material) and an encapsulating membrane might have come about.
 
-## May 31 - TBD
+## May 31 - Population-based Simulation of Gender Inequality Issues (Matthew Andres Moreno)
+
+**Paper:** Bullinaria, J. A. (2016). [Population-based Simulation of Gender Inequality Issues](https://www.mitpressjournals.org/doi/abs/10.1162/978-0-262-33936-0-ch073). Proceedings of the Artificial Life Conference 2016, 452–459. [https://doi.org/10.7551/978-0-262-33936-0-ch073 ](https://doi.org/10.7551/978-0-262-33936-0-ch073).
+
+### Discussion Topics
+
+* Methodology
+   * Why use agent-based models instead of differential equations?
+   * Weak cited/empirical support for parameter settings/assumptions
+     * > The baseline simulations suggest that a promotion fraction of 0.06, a 4 years wait for eligibility, and giving up after twelve years, provides a reasonably realistic basis for the forthcoming simulations.
+     * > So far, the simulations have been run for many generations to allow enough time for the various population distributions to stabilize,
+     * > In some species, such factors may be encoded genetically, but for current human professions it is more likely that such information will be passed on mimeticaly, in the form of social learning or mimicry (Bullinaria, 2010).
+* Figures
+  * labels
+  * bitmap versus vector
+  * error bars (what do they represent?)
+  * making use of line style in addition to color
+  * so many error bars it looks like a smear
+* Language makes it unclear whether or not certain work was done
+  * > Discrimination or intervention in that process are other key factors to be explored.
+  * > It is also possible that varying percentages of individuals leave the working population for other reasons.
+    Such details will need to be explored.
+  * > For situations that have learning or experience increase the individuals' abilities in line with the number of yeawrs in their chosen profession, or at each stage in that professeion, it will be interesting to investigate the different age distributions that emerge for each gender at each stage, and to go on to explore the effect of factors such as maternity leave.
+* Unusually verbose/defensive
+   * > However, those cases were still run to provide a check that no unexpected biases exist in the simulations.
+   * > It is inevitable that some readers will disagree with the particular assumptions and simplifications employed in the simulations presented here.
+     Hopefully progress can be made by other researchers using the approach to test the consequences of varying those assumptions and simplifications, and performing simulations more carefully matched to their own data and beliefs.
+* Didn't put the one applicable tidbit in the conclusion (although mentioned elsewhere): to differentiate between descrimination and innate ability difference, look for relatively greater ability in the minority gender members at higher eschelons of the hierarchy   
+  * conclusion should tell the broader impact/applications of the research
 
 ## June 7 - TBD
 
