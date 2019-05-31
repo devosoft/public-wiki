@@ -102,15 +102,15 @@ Some open questions (as of this paper)
 * Didn't put the one applicable tidbit in the conclusion (although mentioned elsewhere): to differentiate between descrimination and innate ability difference, look for relatively greater ability in the minority gender members at higher eschelons of the hierarchy   
   * conclusion should tell the broader impact/applications of the research
 
-## June 7 - TBD
+## June 7 - Austin Ferguson
 
 ## June 14 - BEACON Seminar (Mark Reimers)
 
-## June 21 - TBD
+## June 21 - Josh Nahum
 
 ## June 28 - BEACON Seminar (Doug Kirkpatrick)
 
-## July 5 - TBD
+## July 5 - ??? Holiday 4-day weekend?
 
 ## July 12 - BEACON Seminar (Chris Adami)
 
