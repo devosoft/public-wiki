@@ -9,7 +9,8 @@ journal_club_entry_info:
 
 MAM: something controversial we can argue about
 * https://sandwalk.blogspot.com/2009/09/how-bad-papers-get-published-in-good.html
-* https://www.mitpressjournals.org/doi/abs/10.1162/978-0-262-33936-0-ch073
+* [x] https://www.mitpressjournals.org/doi/abs/10.1162/978-0-262-33936-0-ch073
+  - Journal club'd [5/31/19](https://github.com/devosoft/public-wiki/blob/master/_journal_club/2019-summer.md#may-31---population-based-simulation-of-gender-inequality-issues-matthew-andres-moreno)
 
 Division of Labor
 
@@ -17,8 +18,14 @@ Division of Labor
   - A paper on the costs of task allocation in the context of eusocial colonies
   - Suggested by - Alex Lalejini
 
+Education
+
+- Compeau, P. (2019). [Establishing a computational biology flipped classroom](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006764). PLOS Computational Biology, 15(5), e1006764. [https://doi.org/10.1371/journal.pcbi.1006764](https://doi.org/10.1371/journal.pcbi.1006764)
+
+
 Origins of Life
 
-- [Joyce, G. F. The antiquity of RNA-based evolution. Nature 418, 214–221 (2002).](https://www.nature.com/articles/418214a)
+- [x] [Joyce, G. F. The antiquity of RNA-based evolution. Nature 418, 214–221 (2002).](https://www.nature.com/articles/418214a)
   - A 2002 review of the 'RNA world' hypothesis
-  - Suggested by - Alex Lalejini
+  - Journal club'd [5/24/19](https://github.com/devosoft/public-wiki/blob/master/_journal_club/2019-summer.md#may-24---the-antiquity-of-rna-based-evolution---alex)
+ 
