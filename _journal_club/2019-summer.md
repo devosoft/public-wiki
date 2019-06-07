@@ -105,6 +105,37 @@ Some open questions (as of this paper)
 ## June 7 - Austin Ferguson
 - Compeau, P. (2019). [Establishing a computational biology flipped classroom](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006764). PLOS Computational Biology, 15(5), e1006764. [https://doi.org/10.1371/journal.pcbi.1006764](https://doi.org/10.1371/journal.pcbi.1006764)
 
+### Points of Note
+* Academics are often examples of survivor bias in the education system. 
+  * Most academics can handle a lecture, even if it is not the most effective for them. 
+* Bloom's Taxonomic Pyramid
+* "Flipped Classrooms"
+  * Briefly, students handle the basics of understanding on their own outside of class.
+  * Opens class time up for potentially more engaging activities.
+  * Bishop and Verleger - Only truly flipped if fully automated. (i.e., not just reading or watching videos)
+* MOOC - Massive Open Online Course & MAIT - Massive Adaptive Interactive Text
+* Author's experience with a flipped classroom
+  * Spring 2014 - ~70 students used MAIT and wrote short progress reports, in-person discussions were guided Q&A
+  * Spring 2016 - Six students, in-person sessions were switched to peer-to-peer discussion
+  * Spring 2017 - 30 students, split evenly into four groups? Classes featured a short, tangential lecture, some peer Q&A, and guided group discussion.
+  * Spring 2018 - Larger cohort but with 4-5 student breakouts doing discussion questions, challenging problems, and guided write-ups. 
+* Issues, as identified by the author
+  * 1. Motivating students, particularly those with little interest in the subject, can be dificult with the demand of a flipped class. The author also notes a bimodality of students either loving or hating the structure. 
+  * 2. Cohort size can play a significant role in success, and there are few resources to help.
+  * 3. It can be dificult to convince students of the classroom shift. The author suggests a "sales pitch" at the semester start to convince them of the flaws of lecturing. 
+  * 4. The instructor may have to sacrifice breadth for depth when it comes to student understanding of course content. 
+* When creating a flipped classroom, do you decide on in-class plans first instead of designing in-class activities around available online resources?
+* Active learning may be responsible for some extent of this success of flipped classrooms?
+  * How much?
+### Discussion Prompts
+  * Those of you who have experience with different teaching styles, can you elaborate? Weigh the pros and cons, and maybe what could have been better?
+    * This can be as an instructor or a student!
+  * What other (hopefully somewhat successful) pedagogical methods exist that I probably haven't heard of? 
+  * Pedagogical papers are **much** different than what we normally read. 
+    * Will this always be the case? Any foresight here? 
+    * Tips for finding appropriate articles for someone new to teaching?
+  * Anything else related to teaching / teaching styles! 
+  
 ## June 14 - BEACON Seminar (Mark Reimers)
 
 ## June 21 - Josh Nahum
