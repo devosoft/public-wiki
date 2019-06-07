@@ -20,7 +20,7 @@ Division of Labor
 
 Education
 
-- Compeau, P. (2019). [Establishing a computational biology flipped classroom](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006764). PLOS Computational Biology, 15(5), e1006764. [https://doi.org/10.1371/journal.pcbi.1006764](https://doi.org/10.1371/journal.pcbi.1006764)
+- [x] Compeau, P. (2019). [Establishing a computational biology flipped classroom](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006764). PLOS Computational Biology, 15(5), e1006764. [https://doi.org/10.1371/journal.pcbi.1006764](https://doi.org/10.1371/journal.pcbi.1006764)
   - Journal club'd [6/7/2019](https://github.com/devosoft/public-wiki/blob/master/_journal_club/2019-summer.md#june-7---austin-ferguson)
 
 
