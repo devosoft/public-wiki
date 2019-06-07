@@ -103,6 +103,7 @@ Some open questions (as of this paper)
   * conclusion should tell the broader impact/applications of the research
 
 ## June 7 - Austin Ferguson
+- Compeau, P. (2019). [Establishing a computational biology flipped classroom](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006764). PLOS Computational Biology, 15(5), e1006764. [https://doi.org/10.1371/journal.pcbi.1006764](https://doi.org/10.1371/journal.pcbi.1006764)
 
 ## June 14 - BEACON Seminar (Mark Reimers)
 
