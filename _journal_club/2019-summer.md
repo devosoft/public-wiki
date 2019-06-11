@@ -140,6 +140,14 @@ Some open questions (as of this paper)
 
 ## June 21 - Josh Nahum
 
+**Paper:** Louis P. Elliott and Barry W. Brook (2007). [Revisiting Chamberlin: Multiple Working Hypotheses for the 21st Century](https://academic.oup.com/bioscience/article/57/7/608/238555). BioScience, Volume 57, Issue 7, July 2007, Pages 608–614, [https://doi.org/10.1641/B570708]( https://doi.org/10.1641/B570708).
+
+Optional extra reading: 
+
+**Paper:** T. C. Chamberlin (1965). [The Method of Multiple Working Hypotheses](https://www.jstor.org/stable/1716334). Science
+New Series, Vol. 148, No. 3671 (May 7, 1965), pp. 754-759.
+
+
 ## June 28 - BEACON Seminar (Doug Kirkpatrick)
 
 ## July 5 - ??? Holiday 4-day weekend?
