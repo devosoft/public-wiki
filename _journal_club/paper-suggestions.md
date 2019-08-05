@@ -29,4 +29,9 @@ Origins of Life
 - [x] [Joyce, G. F. The antiquity of RNA-based evolution. Nature 418, 214–221 (2002).](https://www.nature.com/articles/418214a)
   - A 2002 review of the 'RNA world' hypothesis
   - Journal club'd [5/24/19](https://github.com/devosoft/public-wiki/blob/master/_journal_club/2019-summer.md#may-24---the-antiquity-of-rna-based-evolution---alex)
+  
+Sustainability
+
+- Steffen, W., Richardson, K., Rockstrom, J., Cornell, S. E., Fetzer, I., Bennett, E. M., … Sorlin, S. (2015). Planetary boundaries: Guiding human development on a changing planet. Science, 347(6223), 1259855–1259855. https://doi.org/10.1126/science.1259855
+
  
