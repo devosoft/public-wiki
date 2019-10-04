@@ -42,3 +42,7 @@ Sustainability
 
 - Steffen, W., Richardson, K., Rockstrom, J., Cornell, S. E., Fetzer, I., Bennett, E. M., … Sorlin, S. (2015). Planetary boundaries: Guiding human development on a changing planet. Science, 347(6223), 1259855–1259855. https://doi.org/10.1126/science.1259855
 - Fellermann, H., Penn, A. S., Füchslin, R. M., Bacardit, J., & Goñi-Moreno, A. (2019). Towards Low-Carbon Conferencing: Acceptance of Virtual Conferencing Solutions and Other Sustainability Measures in the ALIFE Community. The 2019 Conference on Artificial Life, 21–27. https://doi.org/10.1162/isal_a_00133
+
+Genetic Programming
+
+- Topic: Autoconstructive Evolution
