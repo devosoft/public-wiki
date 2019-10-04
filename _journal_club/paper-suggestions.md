@@ -46,3 +46,7 @@ Sustainability
 Genetic Programming
 
 - Topic: Autoconstructive Evolution
+
+Writing
+
+- [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
