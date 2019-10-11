@@ -1,7 +1,7 @@
 # NSF GRFP
 - previous applications from the lab:
-   - Matthew Andres Moreno [research statement](https://github.com/mmore500/grfp-personal), [personal statement](https://github.com/mmore500/grfp-research)
-   - Alexander Lalejini [research statement](assets/lalejini_grfp_research.pdf), [personal statement](assets/lalejini_grfp_personal.pdf)
+   - Matthew Andres Moreno [research statement](https://github.com/mmore500/grfp-research), [personal statement](https://github.com/mmore500/grfp-personal)
+   - Alexander Lalejini [research statement](/assets/lalejini_grfp_research.pdf), [personal statement](/assets/lalejini_grfp_personal.pdf)
 
 # HERTZ FOUNDATION FELLOWSHIP:
 - Application: https://hertzfoundation.org/fellowships/application
