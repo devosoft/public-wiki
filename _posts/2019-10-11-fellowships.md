@@ -45,7 +45,7 @@
 # FORD FOUNDATION FELLOWSHIP:
 - Application/Looking For: http://sites.nationalacademies.org/PGA/FordFellowships/PGA_166320
 - Deadline:  December 17, 2019 at 5:00 PM Eastern Standard Time (EST)
-- Letters of Recommendation: minimum of 3 (maximum of 5 | DUE 1/7/2020)
+- Letters of Recommendation: minimum of 3 (maximum of 5, DUE 1/7/2020)
 - Personal Statement (MAX 2 PAGES): 
   - Capacity to respond in pedagogically productive ways to the learning needs of students from diverse backgrounds
   - Sustained personal engagement with communities that are underrepresented in the academy and ability to bring this asset to learning, teaching, and scholarship at the college or university level
