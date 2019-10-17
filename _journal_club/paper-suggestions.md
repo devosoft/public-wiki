@@ -11,6 +11,7 @@ MAM: something controversial we can argue about
 * https://sandwalk.blogspot.com/2009/09/how-bad-papers-get-published-in-good.html
 * [x] https://www.mitpressjournals.org/doi/abs/10.1162/978-0-262-33936-0-ch073
   - Journal club'd [5/31/19](https://github.com/devosoft/public-wiki/blob/master/_journal_club/2019-summer.md#may-31---population-based-simulation-of-gender-inequality-issues-matthew-andres-moreno)
+- [Chen, CL Philip, et al. "I-Ching divination evolutionary algorithm and its convergence analysis." IEEE transactions on cybernetics 47.1 (2016): 2-13.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7387702)
 
 Artificial Chemistries
 
