@@ -47,4 +47,4 @@ journal_club_entry_info:
 
 ## Week of April 27 - TBD
 
-:bowing_woman: FINALS WEEK :bowing_man:
+:bowing_woman: **FINALS WEEK** :bowing_man:
