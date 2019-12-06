@@ -51,3 +51,9 @@ Genetic Programming
 Writing
 
 - [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
+
+# Misc Ideas for Journal Club
+
+- Mentoring pow-wow
+- Brainstorming settions
+- Tutorials (e.g., HPCC workflow, citation management, literature review strategies)
