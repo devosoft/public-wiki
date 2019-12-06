@@ -54,6 +54,8 @@ Writing
 
 # Misc Ideas for Journal Club
 
-- Mentoring pow-wow
-- Brainstorming settions
+- Mentoring pow-wow (recurring)
+- Brainstorming sessions
 - Tutorials (e.g., HPCC workflow, citation management, literature review strategies)
+- Conference season - work session for papers w/snacks (@ coffee shop)
+- Classic papers
