@@ -17,7 +17,9 @@ Langdon, W. B., & Banzhaf, W. (2019). Continuous Long-Term Evolution of Genetic 
 
 Leon, Dacia et al. “Innovation in an E. coli evolution experiment is contingent on maintaining adaptive potential until competition subsides.” PLoS genetics vol. 14,4 e1007348. 12 Apr. 2018, doi:10.1371/journal.pgen.1007348
 
-## Week of January 13 - TBD
+## Week of January 13 - Alex Lalejini
+
+Don't know yet!
 
 ## Week of January 20 - TBD
 
