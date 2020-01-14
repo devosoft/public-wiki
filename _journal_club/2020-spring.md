@@ -19,7 +19,7 @@ Leon, Dacia et al. “Innovation in an E. coli evolution experiment is contingen
 
 ## Week of January 20 - Alex Lalejini
 
-https://www.pnas.org/content/early/2020/01/07/1910837117
+[S. Kriegman, D. Blackiston, M. Levin, and J. Bongard, “A scalable pipeline for designing reconfigurable organisms,” Proc Natl Acad Sci USA, p. 201910837, Jan. 2020, doi: 10.1073/pnas.1910837117.](https://www.pnas.org/content/early/2020/01/07/1910837117)
 
 ## Week of January 27 - TBD
 
