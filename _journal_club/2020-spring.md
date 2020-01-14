@@ -19,7 +19,7 @@ Leon, Dacia et al. “Innovation in an E. coli evolution experiment is contingen
 
 ## Week of January 20 - Alex Lalejini
 
-Maybe synthetic ecology. Maybe something else!
+https://www.pnas.org/content/early/2020/01/07/1910837117
 
 ## Week of January 27 - TBD
 
