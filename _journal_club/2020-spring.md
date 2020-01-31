@@ -17,7 +17,7 @@ Langdon, W. B., & Banzhaf, W. (2019). Continuous Long-Term Evolution of Genetic 
 
 Leon, Dacia et al. “Innovation in an E. coli evolution experiment is contingent on maintaining adaptive potential until competition subsides.” PLoS genetics vol. 14,4 e1007348. 12 Apr. 2018, doi:10.1371/journal.pgen.1007348
 
-## Week of January 20 - Alex Lalejini
+## Week of January 31 - Alex Lalejini
 
 Paper: [S. Kriegman, D. Blackiston, M. Levin, and J. Bongard, “A scalable pipeline for designing reconfigurable organisms,” Proc Natl Acad Sci USA, p. 201910837, Jan. 2020, doi: 10.1073/pnas.1910837117.](https://www.pnas.org/content/early/2020/01/07/1910837117)
 
@@ -58,13 +58,14 @@ Existing methods for designing and building 'designer' living systems:
 - Radical applications for 'xenobots' that were not mentioned in the paper?
 - Has anyone looked at their: https://github.com/skriegman/reconfigurable_organisms ?
 
-## Week of January 27 - TBD
+## Week of February 3 - Recent data scandals/RCR
 
-## Week of February 3 - TBD
+- Social spiders
+- Image forensics person
 
-**posted GECCO deadline February 6, 2020**
+## Week of February 10 - Synthetic Ecology
 
-## Week of February 10 - TBD
+Alex
 
 **posted ALife deadline Thursday, 13 February 2020**
 
