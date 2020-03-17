@@ -136,6 +136,7 @@ Some papers to read:
 * Schedule for [BEACON Seminar Room](https://www.google.com/calendar/hosted/msu.edu/embed?src=msu.edu_pke71q0u1fu6ra64api1v8f7l8@group.calendar.google.com&ctz=America/New_York&gsessionid=OK&AuthEventSource=SSO)
 * Schedule for [BEACON Conference Room](https://www.google.com/calendar/hosted/msu.edu/embed?src=msu.edu_tg51lskg3gi8bejrlthr2k5bu8@group.calendar.google.com&ctz=America/New_York&AuthEventSource=SSO&gsessionid=-paBIJTwtyEAyL1KK2Dhcw)
 * List of [Graduate Student Fellowships](https://spreadsheets.google.com/ccc?key=0ApCsMjfqjcaFdEw5NnVpTm41NEFmb1lQdlROdF9teWc&hl=en&authkey=CJ-1mfYM#gid=0)
+* Link for [CSE 999 override requests](https://www.cse.msu.edu/Students/Current_Undergrad/Override.php)
 
 # Other External Resources
 
